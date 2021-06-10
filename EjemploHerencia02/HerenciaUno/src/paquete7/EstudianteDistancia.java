@@ -6,8 +6,8 @@ import paquete9.Estudiante;
 public class EstudianteDistancia extends Estudiante{
     
     private int numeroAsignaturas;
-    private double costoAsignatura;
-    private double matriculaDistancia;
+    private  double costoAsignatura;
+    private  double matriculaDistancia;
     
     public EstudianteDistancia(String n, String ap, String iden, int e,
             int numAsg, double costoAsg){

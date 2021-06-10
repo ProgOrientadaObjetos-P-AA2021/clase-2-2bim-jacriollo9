@@ -1,4 +1,4 @@
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 package herenciauno;
 
 public class EstudiantePresencial extends Estudiante{

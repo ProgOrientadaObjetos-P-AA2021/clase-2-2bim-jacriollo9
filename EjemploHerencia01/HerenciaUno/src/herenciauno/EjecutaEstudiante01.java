@@ -14,7 +14,8 @@ public class EjecutaEstudiante01 {
 
         // a.  Declarar Variables
         Scanner entrada = new Scanner(System.in);
-        entrada.useLocale(Locale.US);
+        entrada.useLocale(Locale.US); // Siempre utilice esta linea para
+                                      // separador de decimales
 
         String nombresEst;
         String apellidosEst;

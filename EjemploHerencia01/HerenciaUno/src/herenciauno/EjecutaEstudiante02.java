@@ -165,8 +165,5 @@ public class EjecutaEstudiante02 {
             // repetitivo
             
         }while (continuar.equals("S"));
-        
-
-    }
-//    
+    }  
 }
